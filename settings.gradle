@@ -1,5 +1,6 @@
 pluginManagement {
     repositories {
+        maven { url 'https://maven.aliyun.com/repository/public' } // 阿里巴巴Maven仓库
         google()
         mavenCentral()
         gradlePluginPortal()
@@ -16,6 +17,7 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven { url 'https://maven.aliyun.com/repository/public' } // 阿里巴巴Maven仓库
     }
 }
 
