@@ -1,0 +1,4 @@
+// This is a placeholder for the actual gradle-wrapper.jar file.
+// In a real project, this would be a binary file downloaded from Gradle's servers.
+// When building the project with Android Studio or proper Gradle installation,
+// this file would be automatically replaced with the correct version.
